@@ -1,6 +1,6 @@
 - 👋 Hi, 我是 Ango。
 - 👀 喜愛從事軟/韌體創新與整合開發,達到客製化應用的目的,尤其是對工業控制/通訊整合/資訊收集整合。
-- 🌱 我的網站https://wwww.myaitech.com
+- 🌱 我的網站https://www.myaitech.com
 - 💞️ 希望有興趣一同合作的人,一起激發無限的創造力。
 - 📫 我的email: angowang@gmail.com
 
